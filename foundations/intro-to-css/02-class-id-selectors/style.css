@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.classOne {
+    background-color:  #FFA8B5;
+    font-family: Verdana, "DejaVu Sans" ,sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#two {
+    color: #003dff;
+    font-size: 36px;
+}
+
+#four {
+    background-color: #aaffab;
+    font-size: 24px;
+    font-weight: bold;
+}
